@@ -1,0 +1,3 @@
+phidata
+groq
+python-dotenv
